@@ -1,5 +1,6 @@
 import "./header.css";
 
+// Nav bar component to show application branding and navigation links
 export default function Header() {
   return (
     <div className="navbar">
